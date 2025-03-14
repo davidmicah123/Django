@@ -4,3 +4,4 @@ Learning Django
 - creating defferent projects
 - Routing in django
 - Httprequests
+- More to come........
